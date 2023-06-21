@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\bin\Debug\net6.0\CLASSLIBRARY.BACK.deps.json
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\bin\Debug\net6.0\CLASSLIBRARY.BACK.dll
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\bin\Debug\net6.0\CLASSLIBRARY.BACK.pdb
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\bin\Debug\net6.0\CLASSLIBRARY.INFRA.dll
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\bin\Debug\net6.0\CLASSLIBRARY.INFRA.pdb
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\obj\Debug\net6.0\CLASSLIBRARY.BACK.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\obj\Debug\net6.0\CLASSLIBRARY.BACK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\obj\Debug\net6.0\CLASSLIBRARY.BACK.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\obj\Debug\net6.0\CLASSLIBRARY.BACK.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\obj\Debug\net6.0\CLASSLIBRARY.BACK.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\obj\Debug\net6.0\CLASSLIBRARY.BACK.csproj.CopyComplete
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\obj\Debug\net6.0\CLASSLIBRARY.BACK.dll
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\obj\Debug\net6.0\refint\CLASSLIBRARY.BACK.dll
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\obj\Debug\net6.0\CLASSLIBRARY.BACK.pdb
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.BACK\obj\Debug\net6.0\ref\CLASSLIBRARY.BACK.dll

@@ -1,0 +1,12 @@
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\bin\Debug\net6.0\CLASSLIBRARY.INFRA.deps.json
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\bin\Debug\net6.0\CLASSLIBRARY.INFRA.dll
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\bin\Debug\net6.0\CLASSLIBRARY.INFRA.pdb
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\obj\Debug\net6.0\CLASSLIBRARY.INFRA.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\obj\Debug\net6.0\CLASSLIBRARY.INFRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\obj\Debug\net6.0\CLASSLIBRARY.INFRA.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\obj\Debug\net6.0\CLASSLIBRARY.INFRA.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\obj\Debug\net6.0\CLASSLIBRARY.INFRA.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\obj\Debug\net6.0\CLASSLIBRARY.INFRA.dll
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\obj\Debug\net6.0\refint\CLASSLIBRARY.INFRA.dll
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\obj\Debug\net6.0\CLASSLIBRARY.INFRA.pdb
+C:\Users\lucas\source\repos\ProjetoEndPoints\CLASSLIBRARY.INFRA\obj\Debug\net6.0\ref\CLASSLIBRARY.INFRA.dll

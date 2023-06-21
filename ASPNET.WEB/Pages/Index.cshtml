@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+<div class="text-center">
+    <h3>NOME INVOCADOR</h3>
+    <form method="post" asp-controller="Home" asp-action="BuscarDados">
+        <input type="text" name="nomeInvocador">
+        <button type="submit">Buscar</button>
+    </form>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <div class="p-4 border bg-light">Column 1</div>
+            </div>
+            <div class="col-sm">
+                <div class="p-4 border bg-light">Column 2</div>
+            </div>
+            <div class="col-sm">
+                <div class="p-4 border bg-light">Column 3</div>
+            </div>
+        </div>
+    </div>
+</div>
